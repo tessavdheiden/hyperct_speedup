@@ -3,3 +3,4 @@ Cython==3.0.4
 matplotlib==3.8.0
 notebook==7.0.6
 setuptools==65.5.1
+memory_profiler==0.61.0
